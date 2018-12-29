@@ -1,0 +1,2 @@
+# BoolSimplifier
+Simplifying Bool function
